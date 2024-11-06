@@ -4,8 +4,9 @@
 
 ### 🚀 About Me
 <p align="center">
-  CTO & Open Source Enthusiast <br>
-  🌱 I’m currently exploring new tech stacks and improving my coding skills
+  🇹🇭 Just a Full Stack Dev from Thailand <br>
+  💪 Growing every day, ‘cause why not? <br>
+  🌱 Leveling up like it's a daily habit
 </p>
 
 ---
