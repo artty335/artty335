@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @artty335
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
-- 📫 How to reach me code
+# 👋 This is @artty335!
 
-<!---
-artty335/artty335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![ProgramZmh](https://github.com/ProgramZmh.png)](https://github.com/ProgramZmh)
+**CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2004** 👶
+
+## Skills
+- 😁Front End
+- 🍔 Backend
+
+## Tech Stack
+![C](https://path.to/icon.png) ![Go](https://path.to/icon.png) ![Python](https://path.to/icon.png) ...
+
+## Tools I Use
+![SQLite](https://path.to/icon.png) ![Docker](https://path.to/icon.png) ...
