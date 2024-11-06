@@ -23,7 +23,7 @@
 ### 💻 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwindcss,materialui,nodejs,express,python,linux,powershell,arduino,postgresql,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwindcss,materialui,nodejs,express,python,linux,powershell,arduino&theme=light" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 ### 🛠 Tools of the Trade
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,npm,github,postgresql,mysql,nginx&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,npm,github,nginx&theme=light" />
   </a>
 </p>
 
