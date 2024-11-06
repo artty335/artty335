@@ -42,14 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artty335&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artty335&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 ### 🌐 Let's Connect
 <p align="center">
   <a href="mailto:artty3354@gmail.com"><img src="https://img.shields.io/badge/Email-artty3354@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
