@@ -20,20 +20,34 @@
 ---
 
 ### 💻 My Tech Stack
+
+---
+
+#### 🎨 Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,js,nodejs,react,next,express,python,arduino,linux,powershell&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,js,react,next&theme=light" />
   </a>
 </p>
 
 ---
 
-### 🛠 My Tools
+#### 🔧 Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,arduino,linux,powershell&theme=light" />
+  </a>
+</p>
+
+---
+
+### 🛠 Tools of the Trade
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,npm,github,postgresql,mysql,nginx&theme=light" />
   </a>
 </p>
+
 
 ---
 
