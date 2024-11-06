@@ -6,7 +6,8 @@
 <p align="center">
   🇹🇭 Just a Full Stack Dev from Thailand <br>
   💪 Growing every day, ‘cause why not? <br>
-  🌱 Leveling up like it's a daily habit
+  🌱 Leveling up like it's a daily habit <br>
+  🔒 Mostly crafting my code in the shadows of private repos
 </p>
 
 ---
@@ -22,7 +23,7 @@
 ### 💻 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,js,react,next,nodejs,express,python,arduino,linux,powershell&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwindcss,materialui,nodejs,express,python,linux,powershell,arduino,postgresql,mysql&theme=light" />
   </a>
 </p>
 
