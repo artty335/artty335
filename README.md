@@ -1,6 +1,6 @@
 # 👋 This is @artty335!
 
-[![ProgramZmh](https://github.com/ProgramZmh.png)](https://github.com/ProgramZmh)
+[!](https://github.com/artty335.png)](https://github.com/artty3335)
 **CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2004** 👶
 
 ## Skills
