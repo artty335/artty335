@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hello, I'm @artty335!</h1>
 
-<p align="center">
-  <a href="mailto:artty3354@gmail.com">
-    <img src="https://img.shields.io/badge/-artty3354@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square" alt="Email">
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
