@@ -1,8 +1,6 @@
 ## 👋 This is @artty335!
 [![email](https://img.shields.io/badge/-artty3354@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:artty3354@gmail.com)
 
-/ Open Source Enthusiast / A boy born in 2004 🙋‍♂️
-
 ### ⚒ Skills
 🥪 **Front End** / 🥗 **Backend**
 
