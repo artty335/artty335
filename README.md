@@ -23,7 +23,7 @@
 ### 💻 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwindcss,materialui,nodejs,express,powershell,linux,python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwindcss,materialui,nodejs,express,powershell,ubuntu,python&theme=light" />
   </a>
 </p>
 
