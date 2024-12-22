@@ -1,0 +1,19 @@
+name: Fetch GitHub Stats
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch GitHub Readme Stats with Token
+        run: |
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          "https://github-readme-stats.vercel.app/api?username=your-github-username&count_private=true&show_icons=true&theme=radical"
