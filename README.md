@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 <p align="center">
-  🇹🇭 Just a Dev from Thailand <br>
+  🇹🇭 Full-stack developer & product builder behind Ritthiart — ritthiart.com <br>
   💪 Growing every day, ‘cause why not? <br>
   🌱 Leveling up like it's a daily habit <br>
   🔒 Mostly crafting my code in the shadows of private repos
